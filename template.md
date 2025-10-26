@@ -6,9 +6,11 @@ tags:
   - tag3
 complexity: 1
 dependencies: []
+size:
+color:
 ---
 
-# 🧩 Puzzle `tag5`
+# 🧩 Puzzle
 
 ## 🧠 Summary  
 lorem ipsum dolor sit amet, consectetur adipiscing elit. lorem ipsum dolor sit amet, consectetur adipiscing elit.  
@@ -42,3 +44,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit.
 | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet. |
 | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet. |
 | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet. |
+
+## Puzzle Visualization
+
