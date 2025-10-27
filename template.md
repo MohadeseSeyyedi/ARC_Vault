@@ -10,15 +10,9 @@ size:
 color:
 ---
 
-# 🧩 Puzzle
-
-## 🧠 Summary  
-lorem ipsum dolor sit amet, consectetur adipiscing elit. lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 ---
 
-## ⚙️ Step Decomposition  
+# ⚙️ Step Decomposition  
 
 | Step | Transformation Tag | Description |
 |------|--------------------|-------------|
@@ -28,7 +22,8 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
-## 🧪 Additional Notes  
+# 🧪 Additional Notes  
+-
 - lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 - lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 - lorem ipsum dolor sit amet, consectetur adipiscing elit.  
@@ -36,7 +31,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
-## 🚫 Failed Hypotheses
+# 🚫 Failed Hypotheses
 
 | Hypothesis | Why It Fails |
 |------------|--------------|
@@ -45,5 +40,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit.
 | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet. |
 | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet. |
 
-## Puzzle Visualization
+# 🎨 Puzzle Visualization
+
 
